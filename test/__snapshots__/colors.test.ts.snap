@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Returns all as array 1`] = `
+Array [
+  Object {
+    "hexColor": "#b8256f",
+    "id": 30,
+    "name": "berry_red",
+  },
+  Object {
+    "hexColor": "#db4035",
+    "id": 31,
+    "name": "red",
+  },
+  Object {
+    "hexColor": "#ff9933",
+    "id": 32,
+    "name": "orange",
+  },
+  Object {
+    "hexColor": "#fad000",
+    "id": 33,
+    "name": "yellow",
+  },
+  Object {
+    "hexColor": "#",
+    "id": 34,
+    "name": "olive_green",
+  },
+  Object {
+    "hexColor": "#299438",
+    "id": 35,
+    "name": "lime_green",
+  },
+  Object {
+    "hexColor": "#299438",
+    "id": 36,
+    "name": "green",
+  },
+  Object {
+    "hexColor": "#6accbc",
+    "id": 38,
+    "name": "teal",
+  },
+  Object {
+    "hexColor": "#6accbc",
+    "id": 39,
+    "name": "sky_blue",
+  },
+  Object {
+    "hexColor": "#96c3eb",
+    "id": 40,
+    "name": "light_blue",
+  },
+  Object {
+    "hexColor": "#6accbc",
+    "id": 41,
+    "name": "blue",
+  },
+  Object {
+    "hexColor": "#884dff",
+    "id": 42,
+    "name": "grape",
+  },
+  Object {
+    "hexColor": "#af38eb",
+    "id": 43,
+    "name": "violet",
+  },
+  Object {
+    "hexColor": "#eb96eb",
+    "id": 44,
+    "name": "lavender",
+  },
+  Object {
+    "hexColor": "#e05194",
+    "id": 45,
+    "name": "magenta",
+  },
+  Object {
+    "hexColor": "#ff8d85",
+    "id": 46,
+    "name": "salmon",
+  },
+  Object {
+    "hexColor": "#808080",
+    "id": 47,
+    "name": "charcoal",
+  },
+  Object {
+    "hexColor": "#884dff",
+    "id": 42,
+    "name": "grey",
+  },
+  Object {
+    "hexColor": "#b8b8b8",
+    "id": 42,
+    "name": "taupe",
+  },
+]
+`;
