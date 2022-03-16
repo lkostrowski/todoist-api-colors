@@ -28,7 +28,7 @@ const apiColors = [
   {
     name: 'olive_green',
     id: 34,
-    hexColor: '#',
+    hexColor: '#afb83b',
   },
   {
     hexColor: '#299438',
@@ -42,11 +42,16 @@ const apiColors = [
   },
   {
     hexColor: '#6accbc',
+    id: 37,
+    name: 'mint_green',
+  },
+  {
+    hexColor: '#158fad',
     id: 38,
     name: 'teal',
   },
   {
-    hexColor: '#6accbc',
+    hexColor: '#14aaf5',
     id: 39,
     name: 'sky_blue',
   },
@@ -56,7 +61,7 @@ const apiColors = [
     hexColor: '#96c3eb',
   },
   {
-    hexColor: '#6accbc',
+    hexColor: '#4073ff',
     id: 41,
     name: 'blue',
   },
@@ -91,13 +96,13 @@ const apiColors = [
     name: 'charcoal',
   },
   {
-    hexColor: '#884dff',
-    id: 42,
+    hexColor: '#b8b8b8',
+    id: 48,
     name: 'grey',
   },
   {
-    hexColor: '#b8b8b8',
-    id: 42,
+    hexColor: '#ccac93',
+    id: 49,
     name: 'taupe',
   },
 ] as const;

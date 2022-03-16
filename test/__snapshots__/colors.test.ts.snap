@@ -23,7 +23,7 @@ Array [
     "name": "yellow",
   },
   Object {
-    "hexColor": "#",
+    "hexColor": "#afb83b",
     "id": 34,
     "name": "olive_green",
   },
@@ -39,11 +39,16 @@ Array [
   },
   Object {
     "hexColor": "#6accbc",
+    "id": 37,
+    "name": "mint_green",
+  },
+  Object {
+    "hexColor": "#158fad",
     "id": 38,
     "name": "teal",
   },
   Object {
-    "hexColor": "#6accbc",
+    "hexColor": "#14aaf5",
     "id": 39,
     "name": "sky_blue",
   },
@@ -53,7 +58,7 @@ Array [
     "name": "light_blue",
   },
   Object {
-    "hexColor": "#6accbc",
+    "hexColor": "#4073ff",
     "id": 41,
     "name": "blue",
   },
@@ -88,13 +93,13 @@ Array [
     "name": "charcoal",
   },
   Object {
-    "hexColor": "#884dff",
-    "id": 42,
+    "hexColor": "#b8b8b8",
+    "id": 48,
     "name": "grey",
   },
   Object {
-    "hexColor": "#b8b8b8",
-    "id": 42,
+    "hexColor": "#ccac93",
+    "id": 49,
     "name": "taupe",
   },
 ]

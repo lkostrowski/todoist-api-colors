@@ -12,7 +12,7 @@ test('Returns by ID', () => {
   const color = getTodoistColorById(41);
 
   expect(color).toEqual({
-    hexColor: '#6accbc',
+    hexColor: '#4073ff',
     id: 41,
     name: 'blue',
   });
