@@ -114,8 +114,9 @@ export type TodoistColorsList = typeof apiColors;
 export const getAllTodoistColors = () => apiColors;
 
 export const getTodoistColorById = (
-  id: ArrayElementType<TodoistColorsList>['id']
+  id: ArrayElementType<TodoistColorsList>['id'] | number
 ) => apiColors.find(color => color.id === id) ?? null;
+
 export const getTodoistColorByName = (
-  name: ArrayElementType<TodoistColorsList>['name']
+  name: ArrayElementType<TodoistColorsList>['name'] | string
 ) => getAllTodoistColors().find(item => item.name === name) ?? null;
